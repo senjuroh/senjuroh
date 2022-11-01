@@ -1,4 +1,4 @@
 
-- 🌱 I’m currently learning python
+- 🌱 I’ve aspired to become a Full-stack Developer.
 
 
