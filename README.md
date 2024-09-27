@@ -1,4 +1,4 @@
 
-- 🌱 I’ve aspired to become a Full-stack Developer.
+- 🌱 I’ve aspired to become a Network Architect.
 
 
